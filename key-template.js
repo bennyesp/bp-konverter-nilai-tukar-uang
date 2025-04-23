@@ -1,1 +1,5 @@
-export const access_key = "Your Access Key" // Ganti dengan API Access Key Anda yang didapatkan dari dashboard
+export const access_key = {
+    exchangeratehost: "",
+    currencylayer:"",
+    // apiLain: ""
+}

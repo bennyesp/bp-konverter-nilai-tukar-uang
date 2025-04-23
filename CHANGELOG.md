@@ -2,6 +2,12 @@
 
 Semua perubahan proyek BP - Konverter Mata Uang akan didokumentasikan dalam file ini.
 
+## [1.1.0] - 2025-04-22
+
+## Yang Baru
+- Penambahan API baru: Currencylayer
+- Opsi pemilihan API untuk mengatasi kehabisan kuota request API.
+
 ## [1.0.0] - 2025-04-19
 
 Rilis stabil pertama dari proyek ini.

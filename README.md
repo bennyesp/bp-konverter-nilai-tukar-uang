@@ -5,11 +5,9 @@
 ---
 
 ## Versi Rilis Stabil
-v1.0.0
+v1.1.0
 
 ## Mata Uang yang Tersedia
-
-Pada rilis stabil pertama ini, ekstensi ini mendukung konversi antara mata uang-mata uang berikut:
 
 - ****Dolar AS (USD)****
 - ****Yuan Cina (CNY)****
@@ -45,7 +43,9 @@ Ekstensi ini membutuhkan ****API Key**** dari exchangerate.host untuk mengambil 
 2. Cari dan buka file bernama `key-template.js`.
 3. Masukkan API Key yang sudah Anda salin tadi ke dalam file tersebut dengan format:
     ```js
-    export const access_key = "Your Access Key"
+    export const access_key = {
+        nama_api: "access_key"
+    }
     ```
 4. Setelah itu, ubah nama file `key-template.js` menjadi `key.js`.
 

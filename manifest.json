@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "BP - Konverter Nilai Tukar Uang",
     "description": "Konversi nilai tukar mata uang cepat dari popup ekstensi",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "action": {
       "default_popup": "index.html"
     },
